@@ -1,0 +1,196 @@
+    <!DOCTYPE html>
+    <html lang="vi">
+        <!-- GIỚI THIỆU -->
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>Maverous Home Decor</title>
+        <meta charset="urf-8">
+        <meta name="keywords" content="Decor, home, Maverous, office">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <!-- Internal practice -->
+            <style>
+                h1 {
+                    color: blanchedalmond;
+                }
+            </style>
+
+            <!-- COPY PASTE BACKGROUND -->
+         <div class="d-flex flex-column justify-content-center w-100 h-100">
+
+            <div class="d-flex flex-column justify-content-center align-items-center">
+                <div class="btn-group my-5">
+                <a href="https://manuel.pinto.dev" class="text-decoration-none">
+                </a>
+            </div>
+        </div>
+        </div>
+
+
+
+
+
+
+    </head>
+    <!-- GIỚI THIỆU SẢN PHẨM -->
+    <body>  
+        <h1>TOP 5 THỨ KHÔNG THỂ THIẾU KHI SET UP WORKSPACE</h1>
+        <p> <i>Bạn lo lắng vì nơi làm việc quá</i> <b>trống trải</b> <i>hay chưa có phụ kiện</i> <b>trang trí nội thất</b>, <i>vậy thì đừng lo</i>
+            đã có <b><i>Maverous Interior Home Decor</i></b> - <i>hệ thống cung cấp các sản phẩm nội thất để trang trí cho nơi làm việc, phòng ngủ
+                của bạn ở bất cứ đâu bạn muốn với mức giá cực kì ưu đãi!.</i>
+        </p>
+        
+
+                <!-- Hình và figcaption -->
+            <img title="Logo MHD" src="https://cdn6.f-cdn.com/contestentries/1933732/54193488/60956dc648a56_thumb900.jpg" alt="Logo của shop" width="100%">
+                <!-- phần hình ảnh đã có thêm thuộc tính title= -->
+        <p><a href="https://www.facebook.com/mtien02/">Nhấp vào để xem trang chủ</a> </p>
+              <p><strong><i>Home tour workspace cùng 3BHome</i></strong></p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/UFdxbgAruzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <figcaption><i>"Trải nghiệm home tour được thiết kế bởi MHD"</i></figcaption>
+        
+            <!-- Phần giới thiệu sản phẩm -->
+            <p class="open"><b>Các sản phẩm phổ biến mà Maverous mang đến cho quý khách như:</b></p>
+            <!-- Loa -->
+            <h2 class="product3"> 1.Bộ loa Marshall Stanmore II </h2>
+        <p> Với thiết kế tinh gọn, vừa mang nét cổ điển xen lẫn hiện đại. Loa Marshall hiện đang là 
+            hot trend đối với những người yêu thích sự giản đơn chất lượng cao. Không những với thiết kế bắt mắt mà dàn loa xuất
+            xứ từ Anh này còn có thể kết nối từ xa qua bluetooth.</p> 
+            <ul><i>Thông số kĩ thuật của loa:</i>
+                <li> <b>Công suất đầu ra: 80W</b> </li> 
+                <li> <b>Dải tần số: 50-20,000Hz</b></li>
+                <li> <b>Kích thước: 350 x 195 x 185</b></li>
+                <li> <b>Trọng lượng: 4,65kg</b></li>  
+
+
+
+                <br>
+                <br>
+                <br>
+            <div> 
+                <img src="https://bizweb.dktcdn.net/thumb/large/100/451/485/products/loa-bluetooth-marshall-brown-1.jpg?v=1653556342167" alt="Ảnh sản phẩm" width="100%">
+                    <figcaption> <i>"Thiết kế tinh giản, sang trọng"</i></figcaption>
+                <img src="https://bizweb.dktcdn.net/thumb/large/100/451/485/products/loa-bluetooth-marshall-stanmore-ii-black-2.jpg?v=1653556342167 " alt="Ảnh sản phẩm" width="100%">
+                    <figcaption> <i>"Các nút bấm hỗ trợ kết nối, tùy chỉnh"</i></figcaption>
+                <img src="https://www.borntoride.vn/wp-content/uploads/2019/08/loa-marshall-stanmore-gia-re-4-1024x675.jpg" alt="trang trí loa" width="100%">
+                    <figcaption><i>"Trang trí loa tiện lợi"</i></figcaption>
+            </div>
+
+
+                <!-- H3 sản phẩm 2 -->
+            <h3 class="product2"> 2.Đèn thông minh cảm ứng màu Phillips Hue Play Gradient Lightstrip</h3>
+            <p>Đèn thông minh luôn là lựa chọn không thể thiếu khi bạn đang set-up góc làm việc của mình. Việc lựa chọn một bộ đèn
+                thông minh sẽ giúp bạn có cảm giác thoải mái hơn, dễ chịu hơn trong những lúc làm việc mệt mỏi. 
+                  <br>
+                  <br> 
+
+                <img src="https://product.hstatic.net/1000069970/product/2_2dc565b020744553ac82b7824c9289cb_large.jpg" alt="Hệ thống đèn" width="100%">
+                    <figcaption><i>"Hệ thống đèn kết nối với PC"</i></figcaption>
+                <!-- hình 1 -->
+                <img src="https://product.hstatic.net/1000069970/product/avatar_philips_2_0c4d1e76a76841e585698ae0f42ca3ea_large.gif" alt="đèn hoạt động" width="100%">
+                    <figcaption><i>"Dãy đèn đủ màu sắc RGB"</i></figcaption>
+                <!-- hình 2 -->
+                <img src="https://product.hstatic.net/1000069970/product/14_df826990b98f482ca9db0158a2fddad8_large.jpg" alt="đèn thông minh">
+                    <figcaption><i>"Tùy chọn chỉnh sửa"</i></figcaption>
+            </p>
+                <!-- H3 sản phẩm ghế -->
+
+            
+            <h3 class="product3"> 3.Bàn nâng hạ tự động ERGONOMIC DESK 9SPACE </h3>
+                                
+            <p><b>9SPACE</b> là thương hiệu chuyên về Decor Setup góc làm việc, mang lại
+                                không gian sáng tạo, nâng cao hiệu quả công việc đồng thời 
+                                cũng đảm bảo sức khỏe cho người dùng với các công nghệ tiên tiến,
+                                điển hình như các sản phẩm công thái học. Đặc biệt, <b>9SPACE</b> còn được
+                                đảm bảo phân phối qua website TMĐT Maverous Home Decor giúp các khách hàng dễ
+                            dàng tiếp cận và an tâm hơn khi trải nghiệm các sản phẩm mới, cũng như khâu bảo hành sản phẩm</p>
+
+                <!-- src hình sản phẩm ghế -->
+                    <img width="100%" src="https://product.hstatic.net/1000069970/product/ban_9space_970feef58e624f228e5d7ba248d88488_large.gif" alt="ghế công thái học">      
+                    <figcaption><i>"Hệ thống nâng, hạ tự động"</i></figcaption>
+
+                    <img src="https://product.hstatic.net/1000069970/product/ban_cong_thai_hoc_1_df69c816797f4a99ab55b59cd6758926_large.png" alt="ghế công thái học">
+                    <figcaption><i>"Đủ kích cỡ, dễ dàng set up"</i></figcaption>
+
+                    <img src="https://product.hstatic.net/1000069970/product/cho_a_tam_nay_nghen_e18454dd3c654bd7b011e895db65a559_large.png"alt="ghế công thái học">
+                    <figcaption><i>" Rộng rãi, thoải mái làm việc"</i></figcaption>
+
+            <h3 class="product4">4.Giá treo tai nghe RGB NID - RGB GAMING HEADSET STAND </h3>      
+                    <img title="Tai nghe RGB" src="https://product.hstatic.net/1000069970/product/gia-treo-tai-nghe__6__1b0f13bdb28a436c9b4fce1e432b5e68_large.png" alt="giá treo tai nghe">
+                <p> Giá treo tai nghe RGB là sự kết hợp hoàn hảo giữa thiết kế và chức năng nâng tầm
+                    không gian setup cho bất kỳ game thủ nào. Sản phẩm được trang bị cổng USB 3.0 tiện
+                    lợi, cảm biến thông minh và đèn RGB tuyệt đẹp góp phần tạo nên phong cách độc đáo và
+                    sự tiện dụng trong việc chơi game.
+                </p>
+                    
+                    <img title="Tai nghe RGB" src="https://product.hstatic.net/1000069970/product/gia-treo-tai-nghe__2__copy_05265ff2263f479c873c0fc6eeea5d85_large.png" alt="giá treo tai nghe">
+                        <p><b>Tích hợp 7 màu đèn RGB</b></p>
+                        <p>Giá đỡ tai nghe với nhiều màu đèn RGB khác nhau, mang lại sự lung linh và không gian
+                            bàn là việc trở nên sắc sảo với hệ thống chiếu sáng RGB Động hoặc Tĩnh.
+                        </p>
+                        
+
+                    <img src="https://product.hstatic.net/1000069970/product/o1cn01yypot61xusicrrigk___2249946504_3d023a9f8ccb49c0bfe10e45de705489_large.png" alt="giá treo tai nghe">
+                        <p><b>Điều khiển cảm ứng 1 chạm</b></p>
+                        <p> Nút cảm ứng đa năng có thể giúp điều chỉnh tắt mở đèn, thay đổi màu sắc RGB và độ sáng
+                            theo sở thích. Bạn có thể điều khiển dễ dàng chỉ với 1 chạm nhẹ, mang đến trải nghiệm tiện
+                            lợi hơn khi sử dụng.
+                        </p>
+
+                        <p><b>Video giá đỡ tai nghe RGB</b></p>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/uFVQ4Dg9Q_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+            <h3 class="product5">5.Ghế công thái học Ergonomic Chairs</h3> 
+                        <!-- Nội dung ghế 1 -->
+                    <p>Sản phẩm <b>Ghế công thái học Ergonomic Chairs</b> phân phối bởi 3BFhome với đầy đủ các tính năng
+                                chuẩn công thái học mang đến sự thoải mái, tiện nghi và bảo vệ sức khỏe tránh các bệnh văn
+                                phòng thường gặp như thoát vị đĩa đệm, đau mỏi lưng - vai - gáy hay tê bì, đau nhức chân tay.</p>           
+
+                    <img title="Ghế công thái học" src="https://file.hstatic.net/1000069970/file/9space_9s1_1_53ea2c8f96c441708495524f6328d392.jpg" alt="ghế công thái học">
+                        <br>
+                        <br>
+                        <!-- Nội dung ghế 2 -->
+                        <p> <b>Thiết kế tựa lưng cong theo cột sống </b> </p>
+                        <p> Ghế công thái học Ergonomic Chairs tập trung thiết kế tựa lưng phù hợp với <b>4 vị trí của cột sống chuẩn khoa học là cổ,ngực,thắt lưng và mông.</b>
+                            Thông qua vị trí đó, tựa lưng được mô tả lại giống như độ cong của cột sống chuẩn công thái học
+                            , kết hợp với khung ghế linh hoạt giúp lưng bạn luôn trong tư thế thẳng và tự nhiên nhất có thể.</p>        
+                    <img src="https://file.hstatic.net/1000069970/file/ghe_cong_thai_hoc_9_dccca9a8f7d14251b1c0bd846b7ef204.png" alt="Ghế công thái học">
+                        <br>
+                        <br>
+                        
+                        
+                    <p> </p>    
+                        
+
+                    <img src="https://file.hstatic.net/1000069970/file/ghe_cong_thai_hoc_6_66a22c2696fd4bb1b46a4df9cd832cb3.png" alt="Ghế công thái học">    
+
+                    
+                  
+                  
+                    <!-- Gần kết -->
+        <p> <b>Thông tin chi tiết</b><p> 
+            <a href="https://www.facebook.com/mtien02/"> Fanpage của shop</a>: <b>Maverous Interior Home Decor</b>
+            
+            <!-- Phần thông tin liên hệ -->
+            <div class="signup"></div>
+                <p>Đăng ký để được tư vấn miễn phí</p> 
+            <p><b>1.Họ và tên</b></p>
+                <input type="text">
+            <p><b>2.Số điện thoại</b></p>
+                <input type="text">
+            <p><b>3.Địa chỉ liên hệ</b></p>
+                <input type="text">     
+
+                <!-- Đặt hr chia page -->
+            
+            <hr />
+
+            
+
+
+
+
+        </body>
+    </html>
